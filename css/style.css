@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+}
+
+/* MAIN */
+
+.container {
+  width: 2170px;
+  margin: 0 auto;
+}
+
+.main-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.main-col {
+  margin: 10px 5px;
+}
+
+/* FOOTER */
