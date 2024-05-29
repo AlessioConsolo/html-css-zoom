@@ -24,4 +24,19 @@ body {
   margin: 10px 5px;
 }
 
+.sm-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.top-b {
+  padding: 3px;
+  border-radius: 5px;
+  background-color: rgba(74, 74, 74, 255);
+  color: white;
+  margin-bottom: 50px;
+  margin-right: 3px;
+  margin-top: 5px;
+}
+
 /* FOOTER */
